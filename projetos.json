@@ -1,14 +1,14 @@
-﻿[
-    {
-        "Nome":  "hermes-agent",
-        "Caminho":  "C:\\TerminalAutonomo\\repos\\hermes-agent"
-    },
-    {
-        "Nome":  "rea",
-        "Caminho":  "C:\\TerminalAutonomo\\repos\\rea"
-    },
-    {
-        "Nome":  "superpowers",
-        "Caminho":  "C:\\TerminalAutonomo\\repos\\superpowers"
-    }
+[
+  {
+    "Nome": "hermes-agent",
+    "Caminho": "C:\\TerminalAutonomo\\repos\\hermes-agent"
+  },
+  {
+    "Nome": "rea",
+    "Caminho": "C:\\TerminalAutonomo\\repos\\rea"
+  },
+  {
+    "Nome": "superpowers",
+    "Caminho": "C:\\TerminalAutonomo\\repos\\superpowers"
+  }
 ]
